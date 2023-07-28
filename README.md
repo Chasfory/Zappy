@@ -28,7 +28,7 @@ This part aims to recreate a hive with fighters, workers and a queen. So this me
 It is made in python.  
 
 
-## @section GamePlay
+## section GamePlay
 This world has an infinite map.  
 
 ### resources section  
